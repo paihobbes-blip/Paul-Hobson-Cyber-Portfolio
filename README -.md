@@ -1,4 +1,5 @@
 # Paul Hobson — Cyber Security & AI-Enabled Operations Portfolio
+
 ## 👋 About Me
 
 I’m an experienced IT systems and operations professional (15+ years) transitioning into cyber security, with a focus on **security operations, incident triage, investigation, and AI-assisted workflows**.
