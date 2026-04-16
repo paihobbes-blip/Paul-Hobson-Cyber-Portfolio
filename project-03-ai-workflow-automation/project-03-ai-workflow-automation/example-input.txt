@@ -1,0 +1,18 @@
+Subject: Weird activity + urgent actions + mixed notes
+
+User reported they could not access a shared folder after lunch.
+At roughly the same time there were comments from another staff member that permissions looked different to yesterday.
+One person thought this might be because of a recent update, but no one was certain.
+There was also mention that an external contractor account might still be active even though the project ended recently.
+A manager asked whether any sensitive data might have been exposed, but nobody had evidence of that yet.
+Separate note: team lead said there were too many alerts and people were missing important things.
+One log excerpt suggested a login from an unusual IP, but the source was not yet validated.
+Action suggestions from chat were all over the place:
+- reset all passwords
+- wait for IT
+- ask the contractor
+- review access groups
+- escalate to security
+- just monitor for now
+
+Overall situation unclear. Some facts, some guesses, lots of noise.

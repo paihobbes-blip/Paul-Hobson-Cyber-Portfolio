@@ -1,3 +1,0 @@
-version account-id interface-id srcaddr dstaddr srcport dstport protocol packets bytes start end action log-status
-2 123456789012 eni-0abc123def4567890 185.220.101.2 10.0.12.45 44321 443 6 12 8240 1776211659 1776211710 ACCEPT OK
-2 123456789012 eni-0abc123def4567890 203.0.113.45 10.0.12.45 51514 443 6 10 6912 1776211334 1776211368 ACCEPT OK

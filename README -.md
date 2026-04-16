@@ -43,6 +43,21 @@ Simulated SOC-style investigations demonstrating:
 **Current project:**
 - [Case 01 — Impossible Travel Login](./project-01-security-triage-lab/case-01-impossible-travel-login.md)
 
+### 2. Quant Beast — Modular Decision & Automation System
+A modular Python-based decision system demonstrating:
+- signal processing
+- threshold-based logic
+- risk controls
+- controlled execution
+- logging and observability
+
+👉 [View Project 02 — Quant Beast](./project-02-quant-beast-system/README.md)
+
+### 3. AI Workflow Automation
+A structured information triage workflow showing how AI can be used to turn messy inputs into clear, actionable outputs with human validation.
+
+👉 [View Project 03 — AI Workflow Automation](./project-03-ai-workflow-automation/README.md)
+
 ---
 
 ## 🧠 How I Work
