@@ -1,0 +1,2 @@
+2026-04-15 10:02:14 LOGIN SUCCESS user=j.smith location=Sydney IP=203.0.113.45 device=Windows10
+2026-04-15 10:07:39 LOGIN SUCCESS user=j.smith location=Moscow IP=185.220.101.2 device=Unknown
