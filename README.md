@@ -27,8 +27,6 @@ This repository is a **proof-of-work portfolio** showing how I apply those capab
 ## 🧩 Featured Projects
 
 ### 1. Security Triage Lab
-
-### 1. Security Triage Lab
 Simulated SOC-style investigations using realistic AWS-style log evidence.
 
 👉 [View Case 01 — Impossible Travel Login](./project-01-security-triage-lab/case-01-impossible-travel-login.md)
@@ -98,7 +96,7 @@ I don’t just generate answers — I verify and operationalise them.
 
 ## ⚡ Portfolio Philosophy
 
-> Don’t tell me. Show me.
+I will show you my work -
 
 This repository is designed to demonstrate:
 - how I think
