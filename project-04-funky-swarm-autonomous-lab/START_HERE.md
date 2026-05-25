@@ -51,32 +51,32 @@ To explore how resilient local agent systems can support:
 # 📂 Where To Explore
 
 ## 🌌 Overview
-👉 README.md
+👉 [README.md] (./README.md)
 
 ---
 
 ## 🏛️ Architecture
-👉 SYSTEM_ARCHITECTURE.md
+👉 [SYSTEM_ARCHITECTURE.md](./SYSTEM_ARCHITECTURE.md)
 
 ---
 
 ## 🛡️ Recovery Engineering
-👉 RECOVERY*CASE*STUDIES.md
+👉 [RECOVERY_CASE_STUDIES.md](./RECOVERY_CASE_STUDIES.md)
 
 ---
 
 ## 🧠 Recursive Memory Design
-👉 RECURSIVE*MEMORY*FRAMEWORK.md
+👉 [RECURSIVE_MEMORY_FRAMEWORK.md](./RECURSIVE_MEMORY_FRAMEWORK.md)
 
 ---
 
 ## 🗺️ Strategic Direction
-👉 ROADMAP.md
+👉 [ROADMAP.md](./ROADMAP.md)
 
 ---
 
 ## 📊 Capability Evidence
-👉 SKILLS_MATRIX.md
+👉 [CAREER_ALIGNMENT.md](./CAREER_ALIGNMENT.md)
 
 ---
 
