@@ -93,7 +93,7 @@ A local-first Proxmox-based AI orchestration and cyber operations infrastructure
 - approval-gated autonomous workflows
 - cyber validation environments
 - infrastructure recovery engineering
-- human-governed AI orchestration
+- human-governed AI workflow orchestration
 
 👉 [View Project 04](./project-04-funky-swarm-autonomous-lab/)
 
