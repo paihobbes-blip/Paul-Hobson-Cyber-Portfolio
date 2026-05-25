@@ -16,6 +16,12 @@ Project Funky Swarm is a distributed AI systems engineering environment designed
 ⚙️ approval-gated autonomous execution  
 📡 operational telemetry and control
 
+# 🏗️ System Architecture Overview
+
+![Funky Swarm Architecture](./assets/diagrams/funky-swarm-architecture.png)
+
+![Hermes Workflow Engine](./assets/diagrams/hermes-workflow-engine.png)
+
 This project demonstrates practical engineering capability across infrastructure automation, virtualisation, orchestration design, and operational resilience.
 
 ---
