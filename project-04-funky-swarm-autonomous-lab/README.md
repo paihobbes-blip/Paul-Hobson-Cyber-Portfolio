@@ -22,13 +22,14 @@ This project demonstrates practical engineering capability across infrastructure
 
 ## 🚀 Quick Navigation
 
-- [Start Here](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\START_HERE.md)
-- [System Architecture](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\SYSTEM_ARCHITECTURE.md)
-- [Recovery Case Studies](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\RECOVERY_CASE_STUDIES.md)
-- [Engineering Challenges](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\ENGINEERING_CHALLENGES.md)
-- [Recursive Memory Framework](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\RECURSIVE_MEMORY_FRAMEWORK.md)
-- [Career Alignment](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\CAREER_ALIGNMENT.md)
-- [Roadmap](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\ROADMAP.md)
+- [Start Here](./START_HERE.md)
+- [System Architecture](./SYSTEM_ARCHITECTURE.md)
+- [Recovery Case Studies](./RECOVERY_CASE_STUDIES.md)
+- [Engineering Challenges](./ENGINEERING_CHALLENGES.md)
+- [Recursive Memory Framework](./RECURSIVE_MEMORY_FRAMEWORK.md)
+- [Career Alignment](./CAREER_ALIGNMENT.md)
+- [Roadmap](./ROADMAP.md)
+- [Project Timeline](./PROJECT_TIMELINE.md)
 
 # 🏗️ Core Technical Domains
 
@@ -151,20 +152,26 @@ This project demonstrates:
 
 ---
 
-# 📂 Technical Artefacts
+## 📁 Technical Artefacts
 
 ### 🏛️ Architecture
-- [SYSTEM_ARCHITECTURE.md](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\SYSTEM_ARCHITECTURE.md)
+- [System Architecture](./SYSTEM_ARCHITECTURE.md)
 
 ### 🛠️ Recovery Engineering
-- [RECOVERY_CASE_STUDIES.md](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\RECOVERY_CASE_STUDIES.md)
+- [Recovery Case Studies](./RECOVERY_CASE_STUDIES.md)
 
 ### 🧠 Recursive Persistence Framework
-- [RECURSIVE_MEMORY_FRAMEWORK.md](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\RECURSIVE_MEMORY_FRAMEWORK.md)
+- [Recursive Memory Framework](./RECURSIVE_MEMORY_FRAMEWORK.md)
 
 ### 🗺️ Project Evolution
-- [ROADMAP.md](C:\Users\Pai\Desktop\Paul Portfolio\Git Repo's for Employment - Proof of work\Paul-Hobson-Cyber-Portfolio\Paul-Hobson-Cyber-Portfolio\project-04-funky-swarm-autonomous-lab\project-04-funky-swarm-autonomous-lab\ROADMAP.md)
+- [Roadmap](./ROADMAP.md)
+- [Project Timeline](./PROJECT_TIMELINE.md)
 
+### ⚙️ Engineering Documentation
+- [Engineering Challenges](./ENGINEERING_CHALLENGES.md)
+
+### 🎯 Career Positioning
+- [Career Alignment](./CAREER_ALIGNMENT.md)
 ---
 
 # 📍 Current Status
