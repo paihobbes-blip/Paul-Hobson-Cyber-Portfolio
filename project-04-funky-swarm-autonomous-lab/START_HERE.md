@@ -51,7 +51,7 @@ To explore how resilient local agent systems can support:
 # 📂 Where To Explore
 
 ## 🌌 Overview
-👉 [README.md] (./README.md)
+👉 [README.md](./README.md)
 
 ---
 
